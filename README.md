@@ -1,8 +1,6 @@
-# 📉 Telco Customer Churn Prediction & Retention Strategy
+# 📉 Customer segmentation and Churn prediction
 
 **Name:** Aditee Srivastava 
-**Context:** Project 1 of 3 | 6-Week Internship at Coding Blocks School of Technology
-
 ---
 
 ## 📖 Overview
@@ -60,6 +58,22 @@ By accurately predicting customers who are at high risk of churning, companies c
 - **Matplotlib**
 - **Seaborn**
 
+---
+
+## 🧠 What I Learned Through This Project
+
+During this project, I gained practical experience with:
+
+- Data cleaning and preprocessing techniques.
+- Exploratory Data Analysis (EDA) and data visualization.
+- Feature encoding and feature selection.
+- Random Forest classification.
+- Hyperparameter tuning using Grid Search.
+- Model evaluation using Accuracy, Precision, Recall, F1-Score, ROC-AUC, and Cross Validation.
+- Handling imbalanced datasets using SMOTE.
+- Threshold tuning and understanding business-oriented model optimization.
+- Customer segmentation using K-Means Clustering.
+- Translating machine learning results into business recommendations.
 ---
 
 # 🧠 Project Workflow
@@ -159,7 +173,7 @@ Therefore, maximizing **Recall** became the primary goal.
 
 ---
 
-### ✅ Method A: Threshold Tuning (Winner 🏆)
+### ✅ Method A: Threshold Tuning 
 
 Instead of using the default threshold:
 
@@ -350,17 +364,18 @@ Actions:
 
 # 🚀 Conclusion
 
-This project demonstrates how Machine Learning can move beyond prediction and directly support business decisions.
+This project helped me connect machine learning concepts with a real business use case.
 
-Key achievements:
+Rather than focusing only on building a predictive model, I learned how to:
 
-- Built a Random Forest churn prediction model.
-- Achieved **95% Recall** using threshold tuning.
-- Compared Threshold Tuning vs SMOTE for imbalanced classification.
-- Achieved an **ROC-AUC score of 0.845**.
-- Segmented customers into actionable business groups using K-Means.
-- Proposed targeted retention strategies to maximize business impact.
+- Analyze customer behavior through data.
+- Evaluate models using multiple metrics.
+- Handle class imbalance problems.
+- Make business-driven decisions when choosing model strategies.
+- Convert predictions into actionable retention plans.
 
-The project highlights how combining **Machine Learning**, **Data Analysis**, and **Business Understanding** can create real-world value through data-driven decision making.
+A key takeaway from this project was that machine learning is not just about achieving high accuracy—it is about solving the right business problem and providing insights that can lead to meaningful decisions.
+
+This project marks the beginning of my journey into applied Data Science and Machine Learning, and it gave me valuable hands-on experience with the complete machine learning workflow from raw data to business recommendations.
 
 ---
