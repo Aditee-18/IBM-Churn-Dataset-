@@ -1,13 +1,13 @@
 # 📉 Telco Customer Churn Prediction & Retention Strategy
 
-**Author:** Aditee Srivastava 
+**Name:** Aditee Srivastava 
 **Context:** Project 1 of 3 | 6-Week Internship at Coding Blocks School of Technology
 
 ---
 
 ## 📖 Overview
 
-I recently started a 6-week internship at **Coding Blocks School of Technology**, where I am learning **Data Science, Machine Learning, and AI** concepts in depth. This repository contains my **first major project**, focused on deep exploratory analysis, predictive modeling, and business-driven customer retention strategies.
+I recently started a 6-week internship at **Coding Blocks School of Technology**, where I am learning **Data Science, Machine Learning, and AI** concepts in depth. This repository contains my **first major project**, focused on deep exploratory analysis, data visualisation, and business-driven customer retention strategies.
 
 ### About the Dataset
 
